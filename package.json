@@ -1,0 +1,30 @@
+{
+  "name": "pinkpanter",
+  "displayName": "PinkPanter",
+  "description": "Tema oscuro inspirado en Pink Panter",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.87.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "author": {
+    "name": "AarMagic",
+    "url": "https://discord.gg/sC8DWpqJCd"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AarMagic/pink-panter-theme.git"
+  },
+  "publisher": "AarMagic",
+  "contributes": {
+    "themes": [
+      {
+        "label": "Pink Panter Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Pink Panter Theme-color-theme.json"
+      }
+    ]
+  }
+}
