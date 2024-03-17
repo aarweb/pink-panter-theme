@@ -2,7 +2,8 @@
   "name": "pinkpanter",
   "displayName": "PinkPanter",
   "description": "Tema oscuro inspirado en Pink Panter",
-  "version": "0.0.1",
+  "icon": "icons/logo.jpeg",
+  "version": "0.0.3",
   "engines": {
     "vscode": "^1.87.0"
   },
