@@ -14,9 +14,16 @@ PinkPanter es un tema oscuro para Visual Studio Code inspirado en la estética d
 
 ## Capturas de pantalla
 
-![Captura de pantalla 1](https://github.com/AarMagic/pink-panter-theme/blob/master/img/imagejs.png)
 
-![Captura de pantalla 2](https://github.com/AarMagic/pink-panter-theme/blob/master/img/image.png)
+- Theme in C#
+- 
+     <img src=img/imagec.png width=50% height=50%>
+
+
+- Theme in JavaScript
+- 
+    <img src=img\imagejs.png width=50% height=50%>
+
 
 ## Instalación
 

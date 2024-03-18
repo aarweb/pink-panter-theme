@@ -8,6 +8,16 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 - Initial release
 
-## [0.3]
+## [0.0.3]
 
 - Added Background Color in Tab
+
+## [0.0.4]
+
+- Modify Imagens From Readme
+
+## [0.0.5]
+
+- Remove Underline Comments
+- Fixed Readme
+- Modify tags
