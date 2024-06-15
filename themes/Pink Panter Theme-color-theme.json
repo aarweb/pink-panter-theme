@@ -93,17 +93,18 @@
 	"titleBar.activeBackground": "#141414",
 	"titleBar.inactiveForeground": "#FFFFFF80",
 	"titleBar.inactiveBackground": "#141414",
+	"menu.background": "#222222",
+	"menu.border": "#f126d63b",
+	"menu.foreground": "#fddbf8",
+	"menu.selectionBackground": "#f126d66a",
+	"menu.selectionForeground": "#FFFFFF",
+	"input.background": "#585858",
+	"input.foreground": "#ffffff",
+	"input.border": "#f126d63b",
+	"input.placeholderForeground": "#fddbf8",
+	"focusBorder": "#FF80AB"
 	},
 	"tokenColors": [
-		{
-			"name": "Color de paréntesis",
-			"scope": [
-				"punctuation.section.parens"
-			],
-			"settings": {
-				"foreground": "#FF0000" // Cambia este valor al color que desees
-			}
-		},
 		{
 			"name": "Comment",
 			"scope": [
@@ -116,6 +117,16 @@
 				
 			}
 		},
+		{
+			"name": "Constantes",
+            "scope": [
+                "constant",
+                "variable.other.constant"
+            ],
+            "settings": {
+                "foreground": "#33ffc5"
+            }
+        },
 		{
 			"name": "Variables",
 			"scope": [
@@ -132,7 +143,7 @@
 				"constant.other.color"
 			],
 			"settings": {
-				"foreground": "#ffffff"
+				"foreground": "#fcf94a"
 			}
 		},
 		{
@@ -486,7 +497,7 @@
 				"source.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json support.type.property-name.json"
 			],
 			"settings": {
-				"foreground": "#FF69B4" // Deep Pink color
+				"foreground": "#FF69B4" 
 			}
 		},
 		{
@@ -495,7 +506,7 @@
 				"source.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json support.type.property-name.json"
 			],
 			"settings": {
-				"foreground": "#FF1493" // Deep Pink color
+				"foreground": "#FF1493"
 			}
 		},
 		{
@@ -504,7 +515,7 @@
 				"source.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json support.type.property-name.json"
 			],
 			"settings": {
-				"foreground": "#FFC0CB" // Pink color
+				"foreground": "#FFC0CB" 
 			}
 		},
 		{
@@ -513,7 +524,7 @@
 				"source.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json support.type.property-name.json"
 			],
 			"settings": {
-				"foreground": "#DB7093" // Pale Violet Red color
+				"foreground": "#DB7093"
 			}
 		},
 

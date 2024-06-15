@@ -15,3 +15,12 @@
 - Remove Underline Comments
 - Fixed Readme
 - Modify tags
+
+## [0.0.6]
+
+- Modify Readme.md
+
+## [0.0.7]
+
+- Modified menu
+- Modified inputs
